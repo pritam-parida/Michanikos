@@ -1,0 +1,14 @@
+package tanya_TBG_by_Michanikos;
+
+public class MainGame {
+
+	public MainGame() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

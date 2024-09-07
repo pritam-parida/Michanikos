@@ -1,0 +1,9 @@
+package tanya_TBG_by_Michanikos;
+
+public class StoryManager {
+
+	public StoryManager() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

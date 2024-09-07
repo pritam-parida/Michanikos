@@ -1,0 +1,9 @@
+package tanya_TBG_by_Michanikos;
+
+public class Player {
+
+	public Player() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
